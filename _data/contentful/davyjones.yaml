@@ -1,0 +1,73 @@
+---
+product:
+- sys:
+    id: E2msxqc9H4uXe0BIrOVZL
+    created_at: !ruby/object:DateTime 2022-05-16 02:09:44.870000000 Z
+    updated_at: !ruby/object:DateTime 2022-05-16 02:10:15.368000000 Z
+    content_type_id: product
+    revision: 2
+  title: My Funky Product
+  short: Jump on human and sleep on her all night long be long in the bed
+  price: 10000.0
+  colors:
+  - orange
+  - gray
+  - black
+  sizes:
+  - skinny
+  - well
+  - fat cat
+  permalink: my-funky-product
+  product_id: 1
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Jump on human and sleep on her all night long be long in the bed, purr
+          in the morning and then give a bite to every human around for not waking
+          up request food, purr loud scratch the walls, the floor, the windows, the
+          humans annoy the old grumpy cat, start a fight and then retreat to wash
+          when i lose, so stick butt in face, yet where is it? i saw that bird i need
+          to bring it home to mommy squirrel! but make muffins. Sleep in the bathroom
+          sink get poop stuck in paws jumping out of litter box and run around the
+          house scream meowing and smearing hot cat mud all over eat a plant, kill
+          a hand, and fart in owners food , for attack the child.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: ccccccccccccaaaaaaaaaaaaaaatttttttttttttttttssssssssssssssss howl uncontrollably
+          for no reason. Mouse lick the other cats, i is not fat, i is fluffy yet stare
+          out the window. Love blinks and purr purr purr purr yawn sleep on keyboard throw
+          down all the stuff in the kitchen. Make meme, make cute face why must they
+          do that. Mmmmmmmmmeeeeeeeeooooooooowwwwwwww 
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  image:
+  - sys:
+      id: 7gbmoGL0pxxBam8q5yvnxM
+      created_at: !ruby/object:DateTime 2022-05-16 02:09:09.553000000 Z
+      updated_at: !ruby/object:DateTime 2022-05-16 02:09:09.553000000 Z
+    title: Funky Shirt Front
+    description: ''
+    url: "//images.ctfassets.net/d4rmgae6mmd3/7gbmoGL0pxxBam8q5yvnxM/b3d8d2ed0e3d2a0ab331d21fe5b4f150/funkyshirt-front.png"
+  - sys:
+      id: 5dkoI24eOkLtYNekB19RBM
+      created_at: !ruby/object:DateTime 2022-05-16 02:09:39.070000000 Z
+      updated_at: !ruby/object:DateTime 2022-05-16 02:09:39.070000000 Z
+    title: Funky Shirt Back
+    description: ''
+    url: "//images.ctfassets.net/d4rmgae6mmd3/5dkoI24eOkLtYNekB19RBM/c4058cc826b76198bdbfb7424a38ed10/funkyshirt-back.png"
